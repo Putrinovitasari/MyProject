@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyProject</string>
+    <string name="novita1" />
+    <string name="novita2" />
+    <string name="novita3" />
+    <string name="novita4" />
 </resources>

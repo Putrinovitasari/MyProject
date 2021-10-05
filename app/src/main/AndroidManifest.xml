@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyProject">
         <activity
+            android:name=".novita4"
+            android:exported="true" />
+        <activity
+            android:name=".novita3"
+            android:exported="true" />
+        <activity
+            android:name=".novita2"
+            android:exported="true" />
+        <activity
+            android:name=".novita1"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
